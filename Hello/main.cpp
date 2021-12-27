@@ -9,8 +9,10 @@
 using namespace std;
 
 int main() {
+    string greeting;
+    greeting = "Hello World!";
     
-    cout << "Hello, World!" << endl;
+    cout << greeting << endl;
     
     return 0;
 }
